@@ -22,6 +22,6 @@ Here are my personal responses to github questions:
 3. [Codingame solutions](https://github.com/luisthedragon/codingame-solutions): My solutions to Codingame bot programming challenges.
 4. [Advent Of Code 2015 solutions](https://github.com/luisthedragon/adventofcode2015): My solutions to the Advent of Code 2015 event programming challenges
 5. [Beecrowd solutions](https://github.com/luisthedragon/beecrowd-solutions): My solutions to Beecrowd programming challenges in C++ language
-6. [7 games](https://github.com/luisthedragon/7games): A fun project based on the [Freecodecamp tutorial](https://www.youtube.com/watch?v=ec8vSKJuZTk) 
+6. [7 games](https://github.com/luisthedragon/7games): A webpage with 7 games based on the [Freecodecamp tutorial](https://www.youtube.com/watch?v=ec8vSKJuZTk) 
 7. [Super Tic Tac Toe](https://github.com/luisthedragon/SuperTicTacToe): A 9x9 tic tac toe made in pygame
 
