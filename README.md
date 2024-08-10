@@ -33,7 +33,7 @@ Here are my personal responses to github questions:
 ## AWS Certified badges
 
 <div align="center">
-    <a href="https://www.credly.com/badges/f5a9f64e-e323-448f-b35c-c641d01768e8/public_url"><img src="https://github.com/luisthedragon/luisthedragon/assets/35470433/627dd665-d428-48e7-9ab1-85d85f07f511" alt="AWS Certified Developer – Associate" style="width:150px; margin: 0 5px;" /></a>
-    <a href="https://www.credly.com/badges/45c071c6-0cf0-4658-acee-6b13034974b0/public_url"><img src="https://github.com/luisthedragon/luisthedragon/assets/35470433/13513bb0-1593-40e7-a206-98a8970c46c2" alt="AWS Certified Solutions Architect – Associate" style=" width:150px; margin: 0 5px;" /></a>
     <a href="https://www.credly.com/badges/5f49b00e-8498-49dd-ba9d-dfdcefe16bb3/public_url"><img src="https://github.com/luisthedragon/luisthedragon/assets/35470433/a1ec2fac-313a-4212-839a-95e5e681f6d6" alt="AWS Certified Data Analytics – Specialty" style="width:150px; margin: 0 5px;" /></a>
+    <a href="https://www.credly.com/badges/45c071c6-0cf0-4658-acee-6b13034974b0/public_url"><img src="https://github.com/luisthedragon/luisthedragon/assets/35470433/13513bb0-1593-40e7-a206-98a8970c46c2" alt="AWS Certified Solutions Architect – Associate" style=" width:150px; margin: 0 5px;" /></a>
+    <a href="https://www.credly.com/badges/f5a9f64e-e323-448f-b35c-c641d01768e8/public_url"><img src="https://github.com/luisthedragon/luisthedragon/assets/35470433/627dd665-d428-48e7-9ab1-85d85f07f511" alt="AWS Certified Developer – Associate" style="width:150px; margin: 0 5px;" /></a>
 </div>
